@@ -1,4 +1,4 @@
 // Write your code here
-class Breakfast
-class Lunch
-class Dinner {}
+class Breakfast {constructor(){}}
+class Lunch {constructor(){}}
+class Dinner {constructor(){}}
